@@ -1,3 +1,17 @@
+![alt text](https://github.com/genmancoder/admindashboard/blob/master/src/images/dash.png?raw=true)
+
+# xTracker Admin Dashboard
+
+ReactJs Admin dashboard. 
+
+
+## Features
+- [ To follow definition]
+
+## Features to be implemented soon:
+- [ To follow definition ]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
